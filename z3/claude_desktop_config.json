@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "seqthinking": {
+      "command": "C:\\Program Files\\nodejs\\node.exe",
+      "args": [
+        "path to index.js"
+      ]
+    }
+  },
+  "darkMode": "light",
+  "scale": 0
+}

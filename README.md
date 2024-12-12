@@ -71,3 +71,6 @@ Ensure the `claude_desktop_config.json` file includes the following variables:
 ---
 
 For further assistance, refer to the project documentation or contact support.
+
+## **Z3 setup**
+Install node z3 module before using the MCP Z3 server.
