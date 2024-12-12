@@ -1,0 +1,20 @@
+{
+  "mcpServers": {
+    "exa": {
+      "command": "C:\\Program Files\\nodejs\\node.exe",
+      "args": [
+        "c:\\shashank\\test\\exa-mcp-server\\src\\index.js"
+      ],
+      "env": {
+        "EXA_API_KEY": ""
+      }
+    }
+  },
+  "darkMode": "light",
+  "scale": 0
+}
+
+
+
+
+
